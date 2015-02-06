@@ -1,3 +1,3 @@
-== Project Euler ==
-====
-I will occasionally post my answers for solved Euler problems here.
+####Project Euler
+
+Working through Project Euler problems. Don't read these if you haven't solved them yet!
